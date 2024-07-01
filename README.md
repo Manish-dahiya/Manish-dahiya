@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Manish dahiya</h1>
 <h3 align="center">A passionate Mern stack developer and c++,python enthusiast</h3>
-
+![06f21a161921919 63cd7887d0a70](https://github.com/Manish-dahiya/Manish-dahiya/assets/162584649/005a07db-e29d-4a05-ace7-5f0c2703894f)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-dahiya&label=Profile%20views&color=0e75b6&style=flat" alt="manish-dahiya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manish_dahiya07" target="blank"><img src="https://img.shields.io/twitter/follow/manish_dahiya07?logo=twitter&style=for-the-badge" alt="manish_dahiya07" /></a> </p>
