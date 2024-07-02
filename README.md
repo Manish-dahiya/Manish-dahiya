@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Manish dahiya</h1>
 <h3 align="center">A passionate Mern stack developer and c++,python enthusiast</h3>
-<img align="center" alt="codign" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*MmLp2x6cMbr27HdRI9OSTg.gif">
+<img align="right" alt="codign" height="200" width="200" src="https://miro.medium.com/v2/resize:fit:1280/1*MmLp2x6cMbr27HdRI9OSTg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-dahiya&label=Profile%20views&color=0e75b6&style=flat" alt="manish-dahiya" /> </p>
 
