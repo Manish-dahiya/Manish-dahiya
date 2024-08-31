@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/manish_dahiya07" target="blank"><img src="https://img.shields.io/twitter/follow/manish_dahiya07?logo=twitter&style=for-the-badge" alt="manish_dahiya07" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently building logic 
 
 - 💬 Ask me about **react,javascript,nodejs**
 
